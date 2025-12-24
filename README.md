@@ -10,7 +10,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C++, Python,SQL,MERN stack etc.
+- 🛠 &nbsp; I’m currently working with Java (SpringBoot) + React + GEN-AI stack etc.
 - 🚀🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sandeep19531).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Sandeep19531/Sandeep19531/issues/)! I am happy to help.
 
